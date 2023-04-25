@@ -7,3 +7,5 @@ Desktop application to make life easier for users with disabilities.
 - ⬡ Forum for discussing various topics.
 - ⬡ Services to help people with disabilities.
 - ⬡ Possibility of free sign language training.
+
+<a target="_blank" href="https://github.com/hovmikayelyan/MyHelper/blob/main/MyHelper.pdf">  Presentation </a>
